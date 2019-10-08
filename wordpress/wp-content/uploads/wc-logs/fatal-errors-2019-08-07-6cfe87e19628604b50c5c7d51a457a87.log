@@ -1,0 +1,53 @@
+2019-08-07T18:02:38+00:00 CRITICAL Uncaught Error: Call to a member function get() on boolean in C:\xampp\htdocs\wordpress\wp-content\themes\krystal\inc\theme-info.php:84
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\krystal\inc\theme-info.php(73): Krystal_About_Page->krystal_setup_config()
+#1 C:\xampp\htdocs\wordpress\wp-content\themes\krystal\functions.php(82): Krystal_About_Page::krystal_init(Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): krystal_setup('')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wp-settings.php(509): do_action('after_setup_the...')
+#6 C:\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\wordpress\w in C:\xampp\htdocs\wordpress\wp-content\themes\krystal\inc\theme-info.php on line 84
+
+2019-08-07T18:02:39+00:00 CRITICAL Uncaught Error: Call to a member function get() on boolean in C:\xampp\htdocs\wordpress\wp-content\themes\krystal\inc\theme-info.php:84
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\krystal\inc\theme-info.php(73): Krystal_About_Page->krystal_setup_config()
+#1 C:\xampp\htdocs\wordpress\wp-content\themes\krystal\functions.php(82): Krystal_About_Page::krystal_init(Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): krystal_setup('')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wp-settings.php(509): do_action('after_setup_the...')
+#6 C:\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\krystal\inc\theme-info.php on line 84
+
+2019-08-07T18:02:42+00:00 CRITICAL Uncaught Error: Call to a member function get() on boolean in C:\xampp\htdocs\wordpress\wp-content\themes\krystal\inc\theme-info.php:84
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\krystal\inc\theme-info.php(73): Krystal_About_Page->krystal_setup_config()
+#1 C:\xampp\htdocs\wordpress\wp-content\themes\krystal\functions.php(82): Krystal_About_Page::krystal_init(Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): krystal_setup('')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wp-settings.php(509): do_action('after_setup_the...')
+#6 C:\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\wordpress\w in C:\xampp\htdocs\wordpress\wp-content\themes\krystal\inc\theme-info.php on line 84
+
+2019-08-07T18:02:47+00:00 CRITICAL Uncaught Error: Call to a member function get() on boolean in C:\xampp\htdocs\wordpress\wp-content\themes\krystal\inc\theme-info.php:84
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\krystal\inc\theme-info.php(73): Krystal_About_Page->krystal_setup_config()
+#1 C:\xampp\htdocs\wordpress\wp-content\themes\krystal\functions.php(82): Krystal_About_Page::krystal_init(Array)
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(286): krystal_setup('')
+#3 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wp-settings.php(509): do_action('after_setup_the...')
+#6 C:\xampp\htdocs\wordpress\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\wordpress\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#8 C:\xampp\htdocs\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#9 C:\xampp\htdocs\wordpress\w in C:\xampp\htdocs\wordpress\wp-content\themes\krystal\inc\theme-info.php on line 84
+
